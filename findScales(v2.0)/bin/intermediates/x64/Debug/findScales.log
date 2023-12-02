@@ -1,0 +1,3 @@
+﻿  main.cpp
+h:\chip_resources\c++\findscales\findscales(v2.0)\src\xlinstrumentation.h(126): warning C4267: “初始化”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  findScales.vcxproj -> H:\Chip_resources\C++\findScales\findScales(v2.0)\\bin\x64\Debug\findScales.exe
